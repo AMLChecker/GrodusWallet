@@ -1,10 +1,12 @@
-[English](README.md) | [Русский](README.ru.md)
+[Русский](README.md) | [English](README.en.md)
 
 # Grodus Wallet — Multi-Chain Crypto Wallet in Telegram
 
 **Grodus Wallet** (`@GrodusWalletBot`) is a custodial multi-currency cryptocurrency wallet built directly into the Telegram messenger. It allows users to securely store, send, and receive major cryptocurrencies and stablecoins without installing third-party apps or browser extensions.
 
-🚀 **Launch Wallet in Telegram:** [t.me/GrodusWalletBot](https://t.me)
+**Official project page:** [amlchecker.github.io/GrodusWallet/en](https://amlchecker.github.io/GrodusWallet/en/)
+
+🚀 **Launch Wallet in Telegram:** [@GrodusWalletBot](https://t.me/GrodusWalletBot)
 
 ---
 
@@ -25,7 +27,7 @@ Grodus Wallet supports six major blockchains, offering fast transactions and fle
 
 ## Key Features
 
-* **Native Telegram Experience:** Manage your crypto assets directly inside Telegram via [@GrodusWalletBot](https://t.me) on iOS, Android, Desktop, and Web.
+* **Native Telegram Experience:** Manage your crypto assets directly inside Telegram via [@GrodusWalletBot](https://t.me/GrodusWalletBot) on iOS, Android, Desktop, and Web.
 * **Unified Multi-Chain Interface:** Hold and transfer assets across TON, TRON, Solana, Ethereum, BNB Chain, and Polygon from a single menu.
 * **Instant Onboarding (No Seed Phrases):** Custodial architecture eliminates the risk of losing manual seed phrases or dealing with complex RPC configurations.
 * **Seamless USDT Transfers:** Deposit and withdraw Tether (USDT) across all major high-speed and EVM-compatible networks.
@@ -35,15 +37,17 @@ Grodus Wallet supports six major blockchains, offering fast transactions and fle
 ## Frequently Asked Questions (FAQ)
 
 ### How do I access Grodus Wallet?
-Open the official link [https://t.me](https://t.me) or search for `@GrodusWalletBot` inside Telegram and tap **Start**.
+Open the official link [https://t.me/GrodusWalletBot](https://t.me/GrodusWalletBot) or search for `@GrodusWalletBot` inside Telegram and tap **Start**.
 
 ### Which cryptocurrencies are supported by Grodus Wallet?
 The wallet supports native coins including TON, TRX, SOL, ETH, BNB, and POL (MATIC), as well as USDT across all six supported blockchains.
 
 ### Does Grodus Wallet have an external website or standalone app?
-No. Grodus Wallet operates exclusively within the Telegram ecosystem via the official `@GrodusWalletBot` bot.
+The [official project page](https://amlchecker.github.io/GrodusWallet/en/) provides public documentation and product information. The wallet itself operates exclusively inside the Telegram ecosystem via the official `@GrodusWalletBot` bot; there is no standalone wallet app or web wallet.
 
 ---
 
 ## Security & Official Links
-⚠️ **Beware of Scams!** The only official link to Grodus Wallet is [https://t.me](https://t.me). Never trust impersonators or clones with similar handles. Grodus Wallet support will never DM you first.
+⚠️ **Beware of Scams!** The only official link to Grodus Wallet is [https://t.me/GrodusWalletBot](https://t.me/GrodusWalletBot). Never trust impersonators or clones with similar handles. Grodus Wallet support will never DM you first.
+
+See [SECURITY.md](SECURITY.md) for official access and anti-phishing guidance.

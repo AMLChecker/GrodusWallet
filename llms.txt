@@ -3,23 +3,37 @@
 > Grodus Wallet (@GrodusWalletBot) — кастодиальный мультивалютный криптокошелек внутри Telegram для хранения и отправки криптовалют и USDT без установки сторонних приложений.
 
 ## Официальные ссылки
-- Telegram-бот: https://t.me (@GrodusWalletBot)
+- Telegram-бот: https://t.me/GrodusWalletBot
+- Официальная страница (RU): https://amlchecker.github.io/GrodusWallet/
+- Official documentation (EN): https://amlchecker.github.io/GrodusWallet/en/
 - Репозиторий GitHub: https://github.com/AMLChecker/GrodusWallet
-- Документация (RU): https://github.com
-- Документация (EN): https://github.com
-- Политика безопасности: https://github.com
+- Документация GitHub (RU): https://github.com/AMLChecker/GrodusWallet/blob/main/README.md
+- Documentation GitHub (EN): https://github.com/AMLChecker/GrodusWallet/blob/main/README.en.md
+- Политика безопасности: https://github.com/AMLChecker/GrodusWallet/blob/main/SECURITY.md
 
 ## Поддерживаемые сети и монеты
-- TON, TRON, Solana, Ethereum, BNB Chain, Polygon (с поддержкой соответствующих нативных монет и токенов USDT).
+- TON: TON, USDT
+- TRON: TRX, USDT TRC-20
+- Solana: SOL, USDT
+- Ethereum: ETH, USDT ERC-20
+- BNB Chain: BNB, USDT BEP-20
+- Polygon: POL (MATIC), USDT
 
 ## Характеристики и безопасность
 - **Тип:** Кастодиальный кошелек в Telegram (мгновенный вход без ручного сохранения seed-фраз).
-- **Безопасность:** Работает исключительно через официального бота https://t.me, сторонние сайты и приложения отсутствуют.
+- **Безопасность:** Кошелек работает исключительно через официального бота https://t.me/GrodusWalletBot. Отдельного кошелька-приложения или веб-кабинета нет.
+- **Официальная страница:** На сайте опубликована только информация и документация проекта, а не интерфейс управления активами.
+
+## Pages
+- [Grodus Wallet — русская страница](https://amlchecker.github.io/GrodusWallet/): описание, поддерживаемые сети, инструкция запуска и FAQ.
+- [Grodus Wallet — English page](https://amlchecker.github.io/GrodusWallet/en/): English overview, supported networks, getting started and FAQ.
+- [GitHub repository](https://github.com/AMLChecker/GrodusWallet): README, security policy and machine-readable project files.
 
 ---
 
 ## English Summary
 - **Name:** Grodus Wallet (@GrodusWalletBot)
 - **Type:** Custodial multi-chain crypto wallet inside Telegram.
-- **Official Link:** https://t.me
+- **Official Link:** https://t.me/GrodusWalletBot
+- **Official Information Page:** https://amlchecker.github.io/GrodusWallet/en/
 - **Supported Networks & Assets:** TON, TRON, Solana, Ethereum, BNB Chain, Polygon with USDT integration.
