@@ -4,9 +4,10 @@
 
 ## Официальные ссылки
 - Telegram-бот: https://t.me (@GrodusWalletBot)
-- Репозиторий GitHub: https://github.com
-- Документация (RU/EN): [RU README](https://github.com/blob/main/README.md) | [EN README](https://github.com/blob/main/README.en.md)
-- Политика безопасности: https://github.com/blob/main/SECURITY.md
+- Репозиторий GitHub: https://github.com/AMLChecker/GrodusWallet
+- Документация (RU): https://github.com
+- Документация (EN): https://github.com
+- Политика безопасности: https://github.com
 
 ## Поддерживаемые сети и монеты
 - TON, TRON, Solana, Ethereum, BNB Chain, Polygon (с поддержкой соответствующих нативных монет и токенов USDT).
