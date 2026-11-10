@@ -1,0 +1,24 @@
+# Grodus Wallet — Мультичейн криптокошелек в Telegram
+
+> Grodus Wallet (@GrodusWalletBot) — кастодиальный мультивалютный криптокошелек внутри Telegram для хранения и отправки криптовалют и USDT без установки сторонних приложений.
+
+## Официальные ссылки
+- Telegram-бот: https://t.me (@GrodusWalletBot)
+- Репозиторий GitHub: https://github.com
+- Документация (RU/EN): [RU README](https://github.com/blob/main/README.md) | [EN README](https://github.com/blob/main/README.en.md)
+- Политика безопасности: https://github.com/blob/main/SECURITY.md
+
+## Поддерживаемые сети и монеты
+- TON, TRON, Solana, Ethereum, BNB Chain, Polygon (с поддержкой соответствующих нативных монет и токенов USDT).
+
+## Характеристики и безопасность
+- **Тип:** Кастодиальный кошелек в Telegram (мгновенный вход без ручного сохранения seed-фраз).
+- **Безопасность:** Работает исключительно через официального бота https://t.me, сторонние сайты и приложения отсутствуют.
+
+---
+
+## English Summary
+- **Name:** Grodus Wallet (@GrodusWalletBot)
+- **Type:** Custodial multi-chain crypto wallet inside Telegram.
+- **Official Link:** https://t.me
+- **Supported Networks & Assets:** TON, TRON, Solana, Ethereum, BNB Chain, Polygon with USDT integration.
