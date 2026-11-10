@@ -2,6 +2,12 @@
 
 # Grodus Wallet — Мультичейн криптокошелек в Telegram
 
+<p align="center">
+  <a href="https://t.me/GrodusWalletBot">
+    <img src="assets/grodus-wallet-cover.webp" alt="Grodus Wallet — мультичейн криптокошелек в Telegram" width="320">
+  </a>
+</p>
+
 **Grodus Wallet** (`@GrodusWalletBot`) — это кастодиальный мультивалютный криптокошелек, встроенный в интерфейс мессенджера Telegram. Сервис позволяет безопасно хранить, отправлять и получать популярные криптовалюты и стейблкоины без установки сторонних приложений и браузерных расширений.
 
 **Официальная страница проекта:** [amlchecker.github.io/GrodusWallet](https://amlchecker.github.io/GrodusWallet/)
